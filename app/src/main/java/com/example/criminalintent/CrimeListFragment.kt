@@ -157,7 +157,7 @@ class CrimeListFragment : Fragment() {
 
         }
     }
-    companion object {
+    companion object{
         fun newInstance(): CrimeListFragment {
             return CrimeListFragment()
         }
